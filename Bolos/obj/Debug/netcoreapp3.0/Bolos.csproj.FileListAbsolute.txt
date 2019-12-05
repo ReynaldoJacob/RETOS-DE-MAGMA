@@ -1,0 +1,11 @@
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\bin\Debug\netcoreapp3.0\Bolos.exe
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\bin\Debug\netcoreapp3.0\Bolos.deps.json
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\bin\Debug\netcoreapp3.0\Bolos.runtimeconfig.json
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\bin\Debug\netcoreapp3.0\Bolos.runtimeconfig.dev.json
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\bin\Debug\netcoreapp3.0\Bolos.dll
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\bin\Debug\netcoreapp3.0\Bolos.pdb
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\obj\Debug\netcoreapp3.0\Bolos.csprojAssemblyReference.cache
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\obj\Debug\netcoreapp3.0\Bolos.AssemblyInfoInputs.cache
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\obj\Debug\netcoreapp3.0\Bolos.AssemblyInfo.cs
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\obj\Debug\netcoreapp3.0\Bolos.dll
+C:\Users\REYNALDO JACOBO\source\repos\Bolos\Bolos\obj\Debug\netcoreapp3.0\Bolos.pdb
